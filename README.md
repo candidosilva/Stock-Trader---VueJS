@@ -1,29 +1,4 @@
-# stock-trader
+<h1>Stock Trader</h1>
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<p>Nele podemos comprar e vender ações e ao "finalizar o dia" as ações sofrem alterações.</p>
+<p>Também podemos salvar e carregar as ações do banco de dados</p>
